@@ -1,4 +1,4 @@
-# riverpod_flutter_project
+# Riverpod Flutter Example Counter Project
 
 This project was developed by Alper Ragıb.
 
